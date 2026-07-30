@@ -68,7 +68,7 @@ npm run dev
 Access the web application at: http://localhost:5173
 
 👩‍💻 Author
-Developed by Esraa (Esraa1911-kill)
+Developed by Esraa (Esraa1911-kill) and Nada Fahmy
 Security: Raw datasets, virtual environments, and .env configuration files are excluded from version control via .gitignore.
 
 👩‍💻 Author
